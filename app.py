@@ -58,7 +58,6 @@ def db_seed():
                       dt_establish=20092020,
                       approved=True,
 
-=======
                       '''interested_investing='something',
  main
                       role='founder','''
@@ -74,7 +73,6 @@ def db_seed():
                       bank_Statement='bank statement'
 
                       
-=======
                       '''
                       inv_note= 'the next big thing',
                       balanc_sheet= 'upload file',
